@@ -1,3 +1,8 @@
+// Name: Comment Blocks
+// ID: lmscomments
+// Description: Annotate your scripts.
+// By: LilyMakesThings <https://scratch.mit.edu/users/LilyMakesThings/>
+
 (function (Scratch) {
   // @ts-ignore
   const { ArgumentType, BlockType, TargetType, Cast, translate, extensions, runtime } = Scratch;
